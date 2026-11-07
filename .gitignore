@@ -12,5 +12,6 @@ products.json
 .DS_Store
 .idea/
 *.iml
+.vscode/
 
 SPEC.md
