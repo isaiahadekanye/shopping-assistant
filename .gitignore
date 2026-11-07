@@ -1,0 +1,16 @@
+# Secrets / team-local config
+.env
+
+# Generated
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# Large raw data (share separately)
+products.json
+
+.DS_Store
+.idea/
+*.iml
+
+SPEC.md
