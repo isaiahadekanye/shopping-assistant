@@ -27,7 +27,7 @@ Every setting lives in [application.properties](backend/src/main/resources/appli
 ## Tests
 
 ```bash
-cd backend  && mvn test     # 38 tests: ingest cleaning, search, OpenAI client (local stub server), chat agent, controller
+cd backend  && mvn test     # 35 tests: ingest cleaning, search, chat agent, controller
 cd frontend && npm test     # 40 tests: components, useChat hook, API client, formatters, full chat flow
 ```
 
